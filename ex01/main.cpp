@@ -24,4 +24,5 @@ int main()
     std::cout << std::endl;
     ::iter(a_str, 5, print_elem<std::string>);
     std::cout << std::endl;
+    return (0);
 }
